@@ -3,7 +3,7 @@ I am currently pursuing a Master of Science in Software Engineering at the Unive
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-kalam-syed/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/www.linkedin.com/in/abdul-kalam-syed/) 
 
 
 # 💻 Tech Stack Used:
